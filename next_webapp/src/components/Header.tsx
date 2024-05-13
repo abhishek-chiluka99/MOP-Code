@@ -17,7 +17,7 @@ const Header = () => {
           <div className=" md:flex items-center justify-between ">
             <div className="md:flex items-center  ">
               <a href="/">
-                <img src="/img/image.png" className="h-8" alt="MOP logo" />
+                <img src="/img/new-logo-white.png" className="h-20" alt="MOP logo" />
               </a>
               <div onClick={()=>setisOpen(!isOpen)} className="w-10 h-7 absolute right-8 top-6 cursor-pointer md:hidden">
                 {
